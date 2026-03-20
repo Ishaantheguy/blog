@@ -2,6 +2,7 @@
 layout: post
 title: Pwnable.kr
 date: '2026-03-20 11:09:54 +0530'
+categories: [Writeup,Pwn, Pwnable.kr]
 ---
 
 ## Rookiss/Crypto1
