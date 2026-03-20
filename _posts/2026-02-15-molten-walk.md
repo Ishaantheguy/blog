@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Molten walk
+title: Pwn/Molten walk
 date: 2026-02-15 19:54 +0530
 categories: [Pwn, Kernel]
 tags: [meltdown, side-channel, cache, speculative-execution, pwncollege]
