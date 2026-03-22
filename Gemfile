@@ -28,3 +28,5 @@ gem "webrick", "~> 1.8"
 gem "json"
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+gem "jekyll-docs"
